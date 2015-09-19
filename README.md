@@ -10,6 +10,8 @@ This repository is for the onboarding of technical volunteers for the Lessig2016
 1. Review our project repos on [GitHub][gh].
 1. Fork the projects that interest you, get them running locally and start contributing!
 
+If you have any questions, please contact the [Tech Volunteer Coordinator](mailto:furf@lessigforpresident.com).
+
 ---
 
 ## Code of Conduct
