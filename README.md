@@ -12,6 +12,30 @@ This repository is for the onboarding of technical volunteers for the Lessig2016
 
 If you have any questions, please contact the [Tech Volunteer Coordinator](mailto:furf@lessigforpresident.com).
 
+## Meetings
+
+Team Lessig Tech will hold a weekly "wake up" call :alarm_clock: for volunteers.
+
+The call will take place on **Saturday mornings at 11am PT (2pm ET)** and is *open to all volunteers* via [Google Hangouts][hang].
+
+Meeting agendas and minutes will be recorded in the [meetings](https://github.com/Lessig2016/Lessig2016.github.io/tree/master/meetings) directory of this repository.
+
+## Chat
+
+Team Lessig Tech maintains a [Slack][slack] to allow real-time chat between volunteers and campaign staff.
+
+The Slack contains a channel for each of the team's projects, as well as other relevant topics, including: *frontend*, *backend*, *mobile* and *big data*.
+
+To receive an invite, please complete the [volunteer registration][skills].
+
+## Contributing
+
+Team Lessig Tech values the contributions of all of its volunteers and seeks to facilitate engagement and collaboration with each of its projects. We encourage volunteers of every skill level to contribute and we will make every effort to ensure 
+
+We promote transparency, which is why even the team's policies and practices are maintained in a [GitHub repository](https://github.com/Lessig2016/Lessig2016.github.io/). If you have a suggestion on how to improve our process, would like to make a correction, follow our [standard approach for contributing code](https://github.com/Lessig2016/Lessig2016.github.io/blob/master/CONTRIBUTING.md) and submit a pull request containing your changes to our documentation.
+
+*For example, if you would like to change the time of the weekly "wake up" call, you would fork this repo, edit the time and submit a pull request. The merits of your change will be discussed inline and, if your change is appoved, it will be merged, changing the time of the call. :clap:*
+
 ---
 
 ## Code of Conduct
@@ -21,10 +45,8 @@ The Lessig Equal Citizens Exploratory Committee is committed to fostering an ope
 This project adheres to the [Open Code of Conduct](http://todogroup.org/opencodeofconduct/#Lessig2016/conduct@lessigforpresident.com). 
 By participating, you are expected to honor this code.
 
-This reference as well as the included copy of the [Code of Conduct](https://github.com/Lessig2016/team/blob/master/CONDUCT.md)
+This reference as well as the included copy of the [Code of Conduct](https://github.com/Lessig2016/Lessig2016.github.io/blob/master/CONDUCT.md)
 shall be included in all forks and distributions of this repository.
-
----
 
 ## Legal
 
@@ -36,17 +58,16 @@ You are responsible for your compliance with federal campaign finance laws. You 
 
 The campaign may remove any offensive, abusive, attacking, or discriminatory content, as well as any content that may otherwise violate our [Terms of Service](https://lessig2016.us/terms-of-service/). 
 
----
-
 ## Copyright and License
 
 Copyright 2015 Lessig Equal Citizens Exploratory Committee. 
 
-The contents of this repository are released under [Creative Commons Attribution 4.0 International Public License](https://github.com/Lessig2016/team/blob/master/LICENSE-CC-BY-40).
+The contents of this repository are released under [Creative Commons Attribution 4.0 International Public License](https://github.com/Lessig2016/Lessig2016.github.io/blob/master/LICENSE-CC-BY-40).
 
-All software maintained in this repository is released under [GNU Affero General Public License, version 3](https://github.com/Lessig2016/team/blob/master/LICENSE-AGPL).
+All software maintained in this repository is released under [GNU Affero General Public License, version 3](https://github.com/Lessig2016/Lessig2016.github.io/blob/master/LICENSE-AGPL).
 
 [gg]: https://groups.google.com/forum/#!forum/teamlessigtech
 [skills]: http://goo.gl/forms/1rwP1lOjbU
 [slack]: https://teamlessigtech.slack.com/
 [gh]: https://github.com/Lessig2016/
+[hang]: https://plus.google.com/hangouts/_/lessigforpresident.com/tech-wake-up-call
