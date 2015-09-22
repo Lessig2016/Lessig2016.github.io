@@ -5,7 +5,7 @@ This repository is for the onboarding of technical volunteers for the Lessig2016
 ## tl;dr
 
 1. Subscribe to the Team Lessig Tech [Google Group][gg].
-1. Complete the [Tech Skills Assessment][skills].
+1. Complete the [Technical Volunteer Registration][skills].
 1. Join us on [Slack][slack]. *You will receive your invite once you complete the skills assessment.*
 1. Review our project repos on [GitHub][gh].
 1. Fork the projects that interest you, get them running locally and start contributing!
@@ -28,7 +28,7 @@ Team Lessig Tech maintains a [Slack][slack] to allow real-time chat between volu
 
 The Slack contains a channel for each of the team's projects, as well as other relevant topics, including: *frontend*, *backend*, *mobile* and *big data*.
 
-To receive an invite, please complete the [volunteer registration][skills].
+To receive an invite, please complete the [Technical Volunteer Registration][skills].
 
 ## Forums
 
