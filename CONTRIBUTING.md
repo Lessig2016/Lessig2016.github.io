@@ -4,15 +4,15 @@
 
 1. Fork [the project repository](https://github.com/Lessig2016/Lessig2016.github.io) on GitHub.
 
-1. Clone your instance of the repository to your development environment.
+1. Clone *your instance* of the repository to your development environment.
 
     ```
-    git clone git@github.com:username/Lessig2016.github.io.git
+    git clone git@github.com:YOUR_USERNAME/Lessig2016.github.io.git
     cd Lessig2016.github.io
     git remote add upstream git://github.com/Lessig2016/Lessig2016.github.io.git
     ```
 
-1. Follow any installation instructions included in the project README.md.
+1. Follow any installation instructions included in the project [README.md](https://github.com/Lessig2016/Lessig2016.github.io/blob/master/README.md).
 
 1. Create your feature branch.
 
