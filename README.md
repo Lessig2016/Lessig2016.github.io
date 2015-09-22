@@ -10,15 +10,17 @@ This repository is for the onboarding of technical volunteers for the Lessig2016
 1. Review our project repos on [GitHub][gh].
 1. Fork the projects that interest you, get them running locally and start contributing!
 
-If you have any questions, please contact the [Tech Volunteer Coordinator](mailto:furf@lessigforpresident.com).
+If you have any questions, please contact the [Tech Volunteer Coordinator][tvc].
 
 ## Meetings
 
-Team Lessig Tech will hold a weekly "wake up" call :alarm_clock: for volunteers.
+Team Lessig Tech will hold a weekly "wake up" call for volunteers. :alarm_clock:
 
-The call will take place on **Saturday mornings at 11am PT (2pm ET)** and is *open to all volunteers* via [Google Hangouts][hang].
+The call will take place on **Saturday mornings at 11am PT (2pm ET)** and is *open to all volunteers* via [Google Hangouts][hang]. It will last approximately one hour.
 
-Meeting agendas and minutes will be recorded in the [meetings](https://github.com/Lessig2016/Lessig2016.github.io/tree/master/meetings) directory of this repository.
+We will discuss the previous week's progress and the following week's needs and events. We will try our best to answer questions and address concerns within the allotted time.
+
+Meeting agendas and minutes will be recorded in the [meetings](https://github.com/Lessig2016/Lessig2016.github.io/tree/master/meetings) directory of this repository. *Please contact the [Tech Volunteer Coordinator][tvc] if you would like to volunteer to record the minutes.*
 
 ## Chat
 
@@ -27,6 +29,10 @@ Team Lessig Tech maintains a [Slack][slack] to allow real-time chat between volu
 The Slack contains a channel for each of the team's projects, as well as other relevant topics, including: *frontend*, *backend*, *mobile* and *big data*.
 
 To receive an invite, please complete the [volunteer registration][skills].
+
+## Forums
+
+Team Lessig Tech also provides an open forum for the discussion of campaign strategy and tactics, technical implementations and ideas on [Google Groups][gg].
 
 ## Contributing
 
@@ -71,3 +77,4 @@ All software maintained in this repository is released under [GNU Affero General
 [slack]: https://teamlessigtech.slack.com/
 [gh]: https://github.com/Lessig2016/
 [hang]: https://plus.google.com/hangouts/_/lessigforpresident.com/tech-wake-up-call
+[tvc]: mailto:furf@lessigforpresident.com
