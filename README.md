@@ -76,5 +76,5 @@ All software maintained in this repository is released under [GNU Affero General
 [skills]: http://goo.gl/forms/1rwP1lOjbU
 [slack]: https://teamlessigtech.slack.com/
 [gh]: https://github.com/Lessig2016/
-[hang]: https://plus.google.com/hangouts/_/lessigforpresident.com/tech-wake-up-call
+[hang]: https://plus.google.com/hangouts/_/lessigforpresident.com/wake-up
 [tvc]: mailto:furf@lessigforpresident.com
