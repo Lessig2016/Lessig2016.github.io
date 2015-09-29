@@ -33,7 +33,7 @@ Host: @bucchere
 * Vote for vp blog post (Chris C, Chris B)
 * Implement Bettina's suggestions for The Plan page (Chris B)
 * Fix and improve sharing in fixdemocracyfirst.us site (Chris B)
-* Forward to three friends fundraising emails, reuse donate-now page (Chris B)
+* DONE Forward to three friends fundraising emails, reuse donate-now page (Chris B)
 * Public launch and market FDF (Chris B)
 * Add emails to call tool (Chris B)
 * DONE - Paypal flow refactoring, extra data getting saved in GAE (Sean)
