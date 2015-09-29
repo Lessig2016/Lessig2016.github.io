@@ -27,11 +27,12 @@ Host: @bucchere
 
 ### This week's goals
 
-* Reshuffle/combine top menu on the site. Move/promote the store to main menu (Chris B)
-* Document and launch help desk (Chris B)
-* Update copy for The Goal page (Bonk, Chris B)
-* Fix and improve sharing in fixdemocracyfirst.us site (Chris B)
+* DONE Reshuffle/combine top menu on the site. Move/promote the store to main menu (Chris B)
+* DONE Document and launch help desk (Chris B)
+* DONE Update copy for The Goal page (Bonk, Chris B)
 * Vote for vp blog post (Chris C, Chris B)
+* Implement Bettina's suggestions for The Plan page (Chris B)
+* Fix and improve sharing in fixdemocracyfirst.us site (Chris B)
 * Forward to three friends fundraising emails, reuse donate-now page (Chris B)
 * Public launch and market FDF (Chris B)
 * Add emails to call tool (Chris B)
