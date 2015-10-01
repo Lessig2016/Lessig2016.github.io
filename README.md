@@ -16,7 +16,7 @@ If you have any questions, please contact the [Tech Volunteer Coordinator][tvc].
 
 Team Lessig Tech will hold a weekly "wake up" call for volunteers. :alarm_clock:
 
-The call will take place on **Saturday mornings at 11am PT (2pm ET)** and is *open to all volunteers* via [Google Hangouts][hang]. It will last approximately one hour.
+The call will take place on **Saturday mornings at 11am PT (2pm ET)** and is *open to all volunteers* via [talky.io][talky]. It will last approximately one hour.
 
 We will discuss the previous week's progress and the following week's needs and events. We will try our best to answer questions and address concerns within the allotted time.
 
@@ -77,4 +77,5 @@ All software maintained in this repository is released under [GNU Affero General
 [slack]: https://teamlessigtech.slack.com/
 [gh]: https://github.com/Lessig2016/
 [hang]: https://plus.google.com/hangouts/_/lessigforpresident.com/wake-up
+[talky]: https://talky.io/lessig-tech-wake-up
 [tvc]: mailto:furf@lessigforpresident.com
