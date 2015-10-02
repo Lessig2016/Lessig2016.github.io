@@ -44,6 +44,7 @@ Host: @bucchere
 * Investigate http://mazda.jebbit.com/preview/oYLgqfQH_mVuZhWk1RtlDA (Chris B, mtg Tuesday)
 * Investigate wordpress plugins for cloudflare, overall plugin inventory (Sean)
 * Launch Lessigram (Furf)
+* Launch recurring paymnent improvements (Chris B)
 * Tuesday/Thursday, 30 minute training sessions, maybe a third on Friday
   * pledge, mailchimp (Aaron)
   * questionr/FDF (Chris
