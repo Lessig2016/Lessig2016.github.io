@@ -31,7 +31,7 @@ Host: @bucchere
 * DONE Document and launch help desk (Chris B)
 * DONE Update copy for The Goal page (Bonk, Chris B)
 * ~~Vote for vp blog post (Chris C, Chris B)~~ (business decided to pass)
-* Implement Bettina's suggestions for The Plan page (Peter)
+* Implement Bettina's suggestions for The Plan page (Chris B)
 * Fix and improve sharing in fixdemocracyfirst.us site (Chris B)
 * DONE Review and/or fix sharing issues site-wide in campaign wordpress (Chris B)
 * DONE Forward to three friends fundraising emails, reuse donate-now page (Chris B)
