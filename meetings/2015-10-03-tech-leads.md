@@ -43,5 +43,18 @@ Host: @bucchere
   * lessigram, rootstrap, volunteer tools? (Furf)
   * wordpress (Sean)
   
-  ### This week's goals
-
+### This week's goals
+* Schedule trainings (Chris B)
+* Review ande update pledge/issue voting emails as needed (Chris B)
+* Launch recurring paymnent improvements (Chris B)
+* Merge in tags pull request for FDF (Chris B)
+* Public launch and marketing for FDF (Chris B, Ned, Bonk)
+* Review and manage jebbit PoC (Chris B)
+* IE9 CORS issue with pledges (Sean, Aaron)
+* Implement wget and roll out wp flattening (Sean)
+* Investigate wordpress plugins for cloudflare, overall plugin inventory (Sean)
+* Add emails (and other data?) to call tool (Gabe)
+* Call from a local area code number to the callee (Gabe)
+* Launch Lessigram MVP and iterate on it (Furf)
+* Needs for mobile call (Furf)
+* Connect furf to crescendo (Aaron, Furf)
