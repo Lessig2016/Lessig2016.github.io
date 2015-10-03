@@ -25,7 +25,7 @@ Host: @bucchere
 * DONE Implement Bettina's suggestions for The Plan page (Chris B)
 * DONE Review and/or fix sharing issues site-wide in campaign wordpress (Chris B)
 * DONE Forward to three friends fundraising emails, reuse donate-now page (Chris B)
-* Fix and improve sharing in fixdemocracyfirst.us site (Chris B)
+* DONE Fix and improve sharing in fixdemocracyfirst.us site (Chris B)
 * Launch recurring paymnent improvements (Chris B)
 * Merge in tags for FDF (Chris B)
 * Public launch and market FDF (Chris B)
