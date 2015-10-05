@@ -44,6 +44,7 @@ Host: @bucchere
   * wordpress (Sean)
   
 ### This week's goals
+* DONE reschedule help desk hours to accomodate team (Chris B)
 * Schedule trainings (Chris B)
 * Review ande update pledge/issue voting emails as needed (Chris B)
 * Launch recurring paymnent improvements (Chris B)
