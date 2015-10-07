@@ -48,7 +48,7 @@ Host: @bucchere
 * DONE Launch recurring paymnent improvements (Chris B)
 * Review ande update pledge/issue voting emails as needed (Chris B)
 * Schedule trainings (Chris B)
-* Merge in tags pull request for FDF (Chris B)
+* DONE Merge in tags pull request for FDF (Chris B)
 * Public launch and marketing for FDF (Chris B, Ned, Bonk)
 * IN PROGRESS Review and manage jebbit PoC (Chris B)
 * IE9 CORS issue with pledges (Sean, Aaron)
