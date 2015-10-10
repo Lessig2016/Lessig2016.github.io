@@ -2,7 +2,7 @@
 
 **October 3, 2015, 10am PT**
 
-[Google Hangouts](https://plus.google.com/hangouts/_/lessigforpresident.com/tech-leads)
+[Google Hangout](https://plus.google.com/hangouts/_/lessigforpresident.com/tech-leads)
 
 Host: @bucchere
 
@@ -45,12 +45,12 @@ Host: @bucchere
   
 ### This week's goals
 * DONE reschedule help desk hours to accomodate team (Chris B)
-* Schedule trainings (Chris B)
+* DONE Launch recurring paymnent improvements (Chris B)
 * Review ande update pledge/issue voting emails as needed (Chris B)
-* Launch recurring paymnent improvements (Chris B)
-* Merge in tags pull request for FDF (Chris B)
+* Schedule trainings (Chris B)
+* DONE Merge in tags pull request for FDF (Chris B)
 * Public launch and marketing for FDF (Chris B, Ned, Bonk)
-* Review and manage jebbit PoC (Chris B)
+* IN PROGRESS Review and manage jebbit PoC (Chris B)
 * IE9 CORS issue with pledges (Sean, Aaron)
 * Implement wget and roll out wp flattening (Sean)
 * Investigate wordpress plugins for cloudflare, overall plugin inventory (Sean)
