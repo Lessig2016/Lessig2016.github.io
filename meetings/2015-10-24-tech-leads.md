@@ -17,7 +17,7 @@ Host: @bucchere
 
 ## Minutes
 
-### Latest status (needs some major updating)
+### Latest status
 
 * Migrate worpress to NationBuilder (Peter)
 * Import user and payment data into NationBuilder (Chris)
