@@ -26,7 +26,7 @@ Host: @bucchere
 * (OBE) Investigate wordpress plugins for cloudflare, overall plugin inventory (Sean)
 * Migrate pledge/issue voting emails to NationBuilder as needed (Chris)
 * (On hold -- needs tech owner) Public launch and marketing for FDF
-* (IN PROGRESS) Review and manage jebbit PoC, see if it can be rolled into NationBuilder (Chris)
+* (In Progress) Review and manage jebbit PoC, see if it can be rolled into NationBuilder (Chris)
 * (OBE) IE9 CORS issue with pledges (Sean)
 * (OBE) Implement wget and roll out wp flattening (Sean)
 * (OBE) Investigate wordpress plugins for cloudflare, overall plugin inventory (Sean)
